@@ -1,4 +1,4 @@
-# uiscreen
+# Video conferencing app with multi-classroom support
 
 A new Flutter project.
 
